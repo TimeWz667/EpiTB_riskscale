@@ -1,0 +1,145 @@
+Country,iso2,iso3,iso_numeric,year,measure,unit,age_group,sex,risk_factor,M,L,H
+Brazil,BR,BRA,076,2021,inc,num,0-14,a,all,5100,4300,5900
+Brazil,BR,BRA,076,2021,inc,num,0-14,f,all,2500,2000,3000
+Brazil,BR,BRA,076,2021,inc,num,0-14,m,all,2600,2100,3200
+Brazil,BR,BRA,076,2021,inc,num,0-4,f,all,1100,570,1700
+Brazil,BR,BRA,076,2021,inc,num,0-4,m,all,1300,680,2000
+Brazil,BR,BRA,076,2021,inc,num,15-24,f,all,5900,3000,8800
+Brazil,BR,BRA,076,2021,inc,num,15-24,m,all,11000,5800,17000
+Brazil,BR,BRA,076,2021,inc,num,15plus,a,all,99000,83000,114000
+Brazil,BR,BRA,076,2021,inc,num,15plus,a,alc,9600,3600,18000
+Brazil,BR,BRA,076,2021,inc,num,15plus,a,smk,7300,2000,16000
+Brazil,BR,BRA,076,2021,inc,num,15plus,f,alc,1300,540,2400
+Brazil,BR,BRA,076,2021,inc,num,15plus,f,smk,1800,600,3700
+Brazil,BR,BRA,076,2021,inc,num,15plus,f,all,32000,25000,39000
+Brazil,BR,BRA,076,2021,inc,num,15plus,m,all,67000,53000,80000
+Brazil,BR,BRA,076,2021,inc,num,15plus,m,alc,9900,4500,17000
+Brazil,BR,BRA,076,2021,inc,num,15plus,m,smk,6000,2100,12000
+Brazil,BR,BRA,076,2021,inc,num,18plus,a,dia,4300,1600,8400
+Brazil,BR,BRA,076,2021,inc,num,18plus,f,dia,1500,540,2900
+Brazil,BR,BRA,076,2021,inc,num,18plus,m,dia,2700,930,5400
+Brazil,BR,BRA,076,2021,inc,num,25-34,f,all,6600,3400,9900
+Brazil,BR,BRA,076,2021,inc,num,25-34,m,all,16000,8100,24000
+Brazil,BR,BRA,076,2021,inc,num,35-44,f,all,6000,3100,8900
+Brazil,BR,BRA,076,2021,inc,num,35-44,m,all,13000,6600,19000
+Brazil,BR,BRA,076,2021,inc,num,45-54,f,all,5100,2600,7500
+Brazil,BR,BRA,076,2021,inc,num,45-54,m,all,11000,5400,16000
+Brazil,BR,BRA,076,2021,inc,num,5-14,f,all,1300,690,2000
+Brazil,BR,BRA,076,2021,inc,num,5-14,m,all,1300,670,2000
+Brazil,BR,BRA,076,2021,inc,num,55-64,f,all,4200,2100,6200
+Brazil,BR,BRA,076,2021,inc,num,55-64,m,all,8600,4400,13000
+Brazil,BR,BRA,076,2021,inc,num,65plus,f,all,4300,2200,6400
+Brazil,BR,BRA,076,2021,inc,num,65plus,m,all,7200,3700,11000
+Brazil,BR,BRA,076,2021,inc,num,all,a,all,104000,89000,119000
+Brazil,BR,BRA,076,2021,inc,num,all,a,hiv,8100,2200,18000
+Brazil,BR,BRA,076,2021,inc,num,all,a,und,5400,4600,6200
+Brazil,BR,BRA,076,2021,inc,num,all,f,all,35000,28000,41000
+Brazil,BR,BRA,076,2021,inc,num,all,m,all,69000,56000,83000
+India,IN,IND,356,2021,inc,num,0-14,a,all,356000,293000,419000
+India,IN,IND,356,2021,inc,num,0-14,f,all,172000,130000,214000
+India,IN,IND,356,2021,inc,num,0-14,m,all,183000,139000,228000
+India,IN,IND,356,2021,inc,num,0-4,f,all,72000,31000,113000
+India,IN,IND,356,2021,inc,num,0-4,m,all,86000,37000,134000
+India,IN,IND,356,2021,inc,num,15-24,f,all,328000,143000,514000
+India,IN,IND,356,2021,inc,num,15-24,m,all,284000,124000,444000
+India,IN,IND,356,2021,inc,num,15plus,a,all,2600000,2140000,3060000
+India,IN,IND,356,2021,inc,num,15plus,a,alc,258000,74000,553000
+India,IN,IND,356,2021,inc,num,15plus,a,smk,110000,21000,271000
+India,IN,IND,356,2021,inc,num,15plus,f,alc,11000,3400,24000
+India,IN,IND,356,2021,inc,num,15plus,f,smk,7700,1800,18000
+India,IN,IND,356,2021,inc,num,15plus,f,all,1010000,766000,1260000
+India,IN,IND,356,2021,inc,num,15plus,m,all,1590000,1200000,1970000
+India,IN,IND,356,2021,inc,num,15plus,m,alc,268000,93000,535000
+India,IN,IND,356,2021,inc,num,15plus,m,smk,118000,30000,267000
+India,IN,IND,356,2021,inc,num,18plus,a,dia,105000,31000,224000
+India,IN,IND,356,2021,inc,num,18plus,f,dia,39000,11000,82000
+India,IN,IND,356,2021,inc,num,18plus,m,dia,68000,20000,145000
+India,IN,IND,356,2021,inc,num,25-34,f,all,245000,107000,383000
+India,IN,IND,356,2021,inc,num,25-34,m,all,289000,126000,452000
+India,IN,IND,356,2021,inc,num,35-44,f,all,147000,64000,230000
+India,IN,IND,356,2021,inc,num,35-44,m,all,274000,119000,428000
+India,IN,IND,356,2021,inc,num,45-54,f,all,124000,54000,193000
+India,IN,IND,356,2021,inc,num,45-54,m,all,290000,126000,453000
+India,IN,IND,356,2021,inc,num,5-14,f,all,100000,43000,156000
+India,IN,IND,356,2021,inc,num,5-14,m,all,98000,43000,153000
+India,IN,IND,356,2021,inc,num,55-64,f,all,99000,43000,154000
+India,IN,IND,356,2021,inc,num,55-64,m,all,255000,111000,399000
+India,IN,IND,356,2021,inc,num,65plus,f,all,71000,31000,111000
+India,IN,IND,356,2021,inc,num,65plus,m,all,194000,85000,304000
+India,IN,IND,356,2021,inc,num,all,a,all,2950000,2490000,3420000
+India,IN,IND,356,2021,inc,num,all,a,hiv,93000,29000,194000
+India,IN,IND,356,2021,inc,num,all,a,und,738000,624000,861000
+India,IN,IND,356,2021,inc,num,all,f,all,1190000,927000,1440000
+India,IN,IND,356,2021,inc,num,all,m,all,1770000,1380000,2150000
+Kenya,KE,KEN,404,2021,inc,num,0-14,a,all,16000,8300,25000
+Kenya,KE,KEN,404,2021,inc,num,0-14,f,all,7900,2700,13000
+Kenya,KE,KEN,404,2021,inc,num,0-14,m,all,8600,2900,14000
+Kenya,KE,KEN,404,2021,inc,num,0-4,f,all,4200,0,10000
+Kenya,KE,KEN,404,2021,inc,num,0-4,m,all,5000,0,12000
+Kenya,KE,KEN,404,2021,inc,num,15-24,f,all,7900,0,19000
+Kenya,KE,KEN,404,2021,inc,num,15-24,m,all,18000,0,44000
+Kenya,KE,KEN,404,2021,inc,num,15plus,a,all,116000,59000,174000
+Kenya,KE,KEN,404,2021,inc,num,15plus,a,alc,10000,1500,26000
+Kenya,KE,KEN,404,2021,inc,num,15plus,a,smk,5700,510,17000
+Kenya,KE,KEN,404,2021,inc,num,15plus,f,alc,820,170,2000
+Kenya,KE,KEN,404,2021,inc,num,15plus,f,smk,200,31,530
+Kenya,KE,KEN,404,2021,inc,num,15plus,f,all,36000,12000,60000
+Kenya,KE,KEN,404,2021,inc,num,15plus,m,all,80000,27000,133000
+Kenya,KE,KEN,404,2021,inc,num,15plus,m,alc,11000,2600,25000
+Kenya,KE,KEN,404,2021,inc,num,15plus,m,smk,6800,1200,17000
+Kenya,KE,KEN,404,2021,inc,num,18plus,a,dia,3400,500,9100
+Kenya,KE,KEN,404,2021,inc,num,18plus,f,dia,1200,210,3000
+Kenya,KE,KEN,404,2021,inc,num,18plus,m,dia,2200,350,5700
+Kenya,KE,KEN,404,2021,inc,num,25-34,f,all,10000,0,25000
+Kenya,KE,KEN,404,2021,inc,num,25-34,m,all,23000,0,55000
+Kenya,KE,KEN,404,2021,inc,num,35-44,f,all,7400,0,18000
+Kenya,KE,KEN,404,2021,inc,num,35-44,m,all,17000,0,42000
+Kenya,KE,KEN,404,2021,inc,num,45-54,f,all,5100,0,12000
+Kenya,KE,KEN,404,2021,inc,num,45-54,m,all,12000,0,28000
+Kenya,KE,KEN,404,2021,inc,num,5-14,f,all,3700,0,9000
+Kenya,KE,KEN,404,2021,inc,num,5-14,m,all,3600,0,8800
+Kenya,KE,KEN,404,2021,inc,num,55-64,f,all,3000,0,7300
+Kenya,KE,KEN,404,2021,inc,num,55-64,m,all,6200,0,15000
+Kenya,KE,KEN,404,2021,inc,num,65plus,f,all,2700,0,6500
+Kenya,KE,KEN,404,2021,inc,num,65plus,m,all,4600,0,11000
+Kenya,KE,KEN,404,2021,inc,num,all,a,all,133000,74000,191000
+Kenya,KE,KEN,404,2021,inc,num,all,a,hiv,43000,16000,82000
+Kenya,KE,KEN,404,2021,inc,num,all,a,und,46000,28000,68000
+Kenya,KE,KEN,404,2021,inc,num,all,f,all,44000,18000,70000
+Kenya,KE,KEN,404,2021,inc,num,all,m,all,89000,36000,141000
+South Africa,ZA,ZAF,710,2021,inc,num,0-14,a,all,30000,18000,41000
+South Africa,ZA,ZAF,710,2021,inc,num,0-14,f,all,14000,6600,22000
+South Africa,ZA,ZAF,710,2021,inc,num,0-14,m,all,16000,7200,24000
+South Africa,ZA,ZAF,710,2021,inc,num,0-4,f,all,7800,0,17000
+South Africa,ZA,ZAF,710,2021,inc,num,0-4,m,all,9200,0,20000
+South Africa,ZA,ZAF,710,2021,inc,num,15-24,f,all,12000,0,27000
+South Africa,ZA,ZAF,710,2021,inc,num,15-24,m,all,20000,0,43000
+South Africa,ZA,ZAF,710,2021,inc,num,15plus,a,all,275000,168000,381000
+South Africa,ZA,ZAF,710,2021,inc,num,15plus,a,alc,24000,4000,60000
+South Africa,ZA,ZAF,710,2021,inc,num,15plus,a,smk,17000,2000,49000
+South Africa,ZA,ZAF,710,2021,inc,num,15plus,f,alc,2700,420,7100
+South Africa,ZA,ZAF,710,2021,inc,num,15plus,f,smk,2400,280,6700
+South Africa,ZA,ZAF,710,2021,inc,num,15plus,f,all,110000,51000,169000
+South Africa,ZA,ZAF,710,2021,inc,num,15plus,m,all,165000,76000,253000
+South Africa,ZA,ZAF,710,2021,inc,num,15plus,m,alc,22000,4000,57000
+South Africa,ZA,ZAF,710,2021,inc,num,15plus,m,smk,16000,2200,44000
+South Africa,ZA,ZAF,710,2021,inc,num,18plus,a,dia,9100,1400,24000
+South Africa,ZA,ZAF,710,2021,inc,num,18plus,f,dia,4000,560,11000
+South Africa,ZA,ZAF,710,2021,inc,num,18plus,m,dia,4700,580,13000
+South Africa,ZA,ZAF,710,2021,inc,num,25-34,f,all,25000,0,56000
+South Africa,ZA,ZAF,710,2021,inc,num,25-34,m,all,42000,0,93000
+South Africa,ZA,ZAF,710,2021,inc,num,35-44,f,all,24000,0,54000
+South Africa,ZA,ZAF,710,2021,inc,num,35-44,m,all,42000,0,94000
+South Africa,ZA,ZAF,710,2021,inc,num,45-54,f,all,18000,0,40000
+South Africa,ZA,ZAF,710,2021,inc,num,45-54,m,all,28000,0,63000
+South Africa,ZA,ZAF,710,2021,inc,num,5-14,f,all,6500,0,14000
+South Africa,ZA,ZAF,710,2021,inc,num,5-14,m,all,6300,0,14000
+South Africa,ZA,ZAF,710,2021,inc,num,55-64,f,all,14000,0,31000
+South Africa,ZA,ZAF,710,2021,inc,num,55-64,m,all,18000,0,39000
+South Africa,ZA,ZAF,710,2021,inc,num,65plus,f,all,16000,0,37000
+South Africa,ZA,ZAF,710,2021,inc,num,65plus,m,all,15000,0,33000
+South Africa,ZA,ZAF,710,2021,inc,num,all,a,all,304000,197000,412000
+South Africa,ZA,ZAF,710,2021,inc,num,all,a,hiv,145000,69000,251000
+South Africa,ZA,ZAF,710,2021,inc,num,all,a,und,38000,26000,52000
+South Africa,ZA,ZAF,710,2021,inc,num,all,f,all,124000,63000,185000
+South Africa,ZA,ZAF,710,2021,inc,num,all,m,all,180000,92000,268000
