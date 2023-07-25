@@ -1,4 +1,4 @@
-Country,iso2,iso3,iso_numeric,year,measure,unit,age_group,sex,risk_factor,M,L,H
+Country,iso2,iso3,iso_numeric,year,measure,unit,age_group,sex,risk_factor,M,L,U
 Brazil,BR,BRA,076,2021,inc,num,0-14,a,all,5100,4300,5900
 Brazil,BR,BRA,076,2021,inc,num,0-14,f,all,2500,2000,3000
 Brazil,BR,BRA,076,2021,inc,num,0-14,m,all,2600,2100,3200
